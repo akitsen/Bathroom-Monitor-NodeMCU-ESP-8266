@@ -12,7 +12,7 @@ It's a simple two file NodeMCU setup.
 1. Clone the repo
 2. Edit 'init.lua' file and input the SSID & password for your wifi.
 3. Set a static IP address
-4. Upload the two files to your ESP8266 (I like to use [ESPlorer](https://esp8266.ru/esplorer/))
+4. Upload the two files ('init.lua' and 'main.lua') to your ESP8266 (I like to use [ESPlorer](https://esp8266.ru/esplorer/))
 5. Poop to your hearts content.
 
 Average Daily Page Hits: ~500-700 
