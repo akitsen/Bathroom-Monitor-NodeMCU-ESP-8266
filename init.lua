@@ -1,8 +1,8 @@
 -- init.lua --
 
 -- Network Variables
-ssid = "LogicMonitor"
-pass = "L0g1cm0n"
+ssid = "INSERT_SSID"
+pass = "INSERT_PASSWORD"
 
 -- Configure Wireless Internet
 wifi.setmode(wifi.STATION)
